@@ -1,6 +1,6 @@
 package com.agenda.model;
 
-import com.agenda.model.enums.TipoReceita;
+import com.agenda.enums.TipoReceita;
 import jakarta.persistence.*;
 import lombok.*;
 

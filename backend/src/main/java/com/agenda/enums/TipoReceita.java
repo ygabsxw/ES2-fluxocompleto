@@ -1,4 +1,4 @@
-package com.agenda.model.enums;
+package com.agenda.enums;
 
 public enum TipoReceita {
     REMEDIO,         // emitido por Médico
